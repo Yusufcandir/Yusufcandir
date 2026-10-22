@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yusufcandir"><img src="https://img.shields.io/badge/LinkedIn-yusufcandir-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yusufcandir30@gmail.com"><img src="https://img.shields.io/badge/Email-yusufcandir30%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/yusufcandir0"><img src="https://img.shields.io/badge/X-@yusufcandir0-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/yusufcandir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:yusufcandir30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -17,10 +17,10 @@
 
 I'm a software engineer working across **backend engineering** and **applied AI**. On the backend I design microservices and serverless APIs with NestJS, Spring Boot and AWS. On the AI side I build LLM and retrieval-augmented generation (RAG) pipelines with explainable machine learning, and I measure how well they ground their answers.
 
-- 🔬 Building LLM and RAG systems for cybersecurity at **KMUTNB** (Thailand)
-- 📄 Presented my work on **TreeSHAP-guided RAG** at the **SCIN 2026** international conference
-- ☁️ Built serverless backends on **AWS** at **Kuark Dijital**
-- 💼 Open to software engineering roles in backend, full-stack and AI/LLM engineering
+- **Now:** building LLM and RAG systems for cybersecurity at KMUTNB, Thailand
+- **Research:** presented TreeSHAP-guided RAG at the SCIN 2026 international conference
+- **Cloud:** built serverless backends on AWS at Kuark Dijital
+- **Open to:** software engineering roles in backend, full-stack and AI/LLM engineering
 
 ## 💼 Experience
 
